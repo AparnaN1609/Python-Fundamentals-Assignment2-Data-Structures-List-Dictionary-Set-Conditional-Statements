@@ -1,4 +1,4 @@
-# Python-Fundamentals-Assignment-2-Data-Structures List-Dictionary-Set-Conditional-Statements
+# Python-Fundamentals Assignment 2-Data Structures: List, Dictionary, Set and Conditional-Statements
 Add Python Fundamentals Assignment 2
 This assignment covers basic Python concepts, including:
 
